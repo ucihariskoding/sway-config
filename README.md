@@ -8,6 +8,6 @@
 
  penampakan :
 
- https://github.com/ucihariskoding/sway-config/blob/main/2023-11-20T00:56:54%2C522251953%2B07:00.png
-
- 
+<picture>
+srcset="https://github.com/ucihariskoding/sway-config/blob/main/2023-11-20T00:56:54%2C522251953%2B07:00.png"
+ </picture>
